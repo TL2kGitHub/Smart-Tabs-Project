@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+body {
+  font-family: "Open Sans", sans-serif;
+  margin: 0;
+  background-color: #d6d6d6;
+}
+
+.chartBox{
+  width: 635px;
+  height: 510px;
+  position: relative;
+  margin: 6% auto;
+  background: rgb(255, 255, 255);
+}
+
+.form{
+  width: 380px;
+  height: 420px;
+  position: relative;
+  margin: 6% auto;
+  background: rgb(255, 255, 255);
+  padding: 5px;
+}
+
+.titleBox{
+  width: 110px;
+  margin: 35px auto;
+  position: relative;
+}
+
+.tittlePos{
+  padding: 10px 30px;
+  position: relative;
+}
+
+#titleLogin{
+  position: absolute;
+  width: 110px;
+  height: 100%;
+  background: #ff0000;
+  border-radius: 5px;
+}
+
+#titleReg{
+  position: absolute;
+  width: 115px;
+  height: 100%;
+  background: #ff0000;
+  border-radius: 5px;
+}
+
+.textFieldGroup{
+  top: 140px;
+  position: absolute;
+  width: 285px;
+}
+
+.textField{
+  width: 100%;
+  padding: 9px 0;
+  margin: 5px 0;
+  border-right: 0;
+  border-left: 0;
+  border-top: 0;
+  border-bottom: 1px solid rgb(0, 0, 0);
+  outline: none;
+  background: transparent;
+}
+
+.submitBtn{
+  width: 85%;
+  padding: 11px 30px;
+  cursor: pointer;
+  display: block;
+  margin: auto;
+  background: #ff0000;
+  border: 0;
+  outline: none;
+  border-radius: 30px;
+}
+
+.createBtn{
+  margin: 30px;
+  background: #ffffff;
+  border: 0;
+}
+
+.checkBox{
+  margin: 30px 10px 30px 0;
+}
+
+#Position{
+  left: 50px;
+} 
+
+.footer {
+  padding-top: 45px;
+  height: 75px; 
+  background-color: rgb(94, 94, 94);
+  width: 100%;
+  color: rgb(255, 255, 255);
+  font-size: 24px;
+  text-align: center;
+ }
+
+.introBox{
+  width: 80%;
+  height: 1000px;
+  position: relative;
+  margin: 6% auto;
+  padding: 50px;
+  background: rgb(255, 255, 255);
+}
+
+ .intro{
+  text-decoration-line: underline;
+  font-size: 24px;
+  color: rgb(0, 0, 0);
+ }
+
+ .info{
+  text-decoration-line: none;
+  font-size: 20px;
+  color: rgb(0, 0, 0);
+ }
+ .centreGif{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+ }
