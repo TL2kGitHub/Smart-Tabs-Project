@@ -1,5 +1,6 @@
 # Smart-Tabs-Project
-My final year project for my engineering degree at ATU - Atlantic Technological University
+My final year project for my engineering degree at ATU - Atlantic Technological University.
+
 Imported project from my old third level email that has since expired.
 
 ## Project Video
