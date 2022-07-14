@@ -3,6 +3,8 @@ My final year project for my engineering degree at ATU - Atlantic Technological 
 
 Imported project from my old third level email that has since expired.
 
+## Final Grade Achieved: 2.1
+
 ## Project Video
 My project can be seen on this Youtube video link:
 https://www.youtube.com/watch?v=UG66vGQ3mJk
